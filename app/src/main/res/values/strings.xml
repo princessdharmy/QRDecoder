@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QR Decoder</string>
+    <string name="qr_decoder_error_message">Could not set up the detector!</string>
+</resources>
